@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">OpenTweetImageURLByTwicca</string>
+	<string name="activity_name">OpenByTwicca</string>
+	<string name="text_title">"\"https://twitter.com/～/status/～/photo/～\" 形式のURLに対してIntentFilterを設定しtwiccaで開きます。"</string>
+
+</resources>
